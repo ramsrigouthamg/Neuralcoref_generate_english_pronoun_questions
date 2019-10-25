@@ -4,6 +4,7 @@
 Use huggingface neuralcoref library to automatically generate english pronoun questions from any story or article.
 The jupyter notebook present has all the code and necessary implementation.
 
+[Medium article](https://medium.com/@ramsrigouthamg/practical-ai-generate-english-pronoun-questions-from-any-story-using-neural-coreference-fe958ae1eb21?source=friends_link&sk=69018b78c223cf4707755940202ccca3)
 
 ## Input (story/content) :
 Scientists know many things about the Sun. They know how old it is.
