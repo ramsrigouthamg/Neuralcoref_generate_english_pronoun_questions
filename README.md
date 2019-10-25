@@ -5,12 +5,12 @@ Use huggingface neuralcoref library to automatically generate english pronoun qu
 The jupyter notebook present has all the code and necessary implementation.
 
 
-# Input (story/content) :
+## Input (story/content) :
 Scientists know many things about the Sun. They know how old it is.
 The Sun is more than 4½ billion years old. It is also a star that is the centre of our solar system.
 They also know the Sun’s size.
 
-# Output ( Pronoun Questions) : 
+## Output ( Pronoun Questions) : 
 1) What does "They" refer to in the sentence - "They know how old it is."?
 Ans : Scientists 
 
